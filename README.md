@@ -25,14 +25,3 @@ Este é o meu portfólio pessoal, desenvolvido com Vue.js e Tailwind CSS, onde a
    `npm run dev`
 
 4. Acesse o projeto no navegador em `http://localhost:3000` (ou a porta indicada)
-
-## Contato
-
-- GitHub: [https://github.com/Rodrigo-Shinji](https://github.com/Rodrigo-Shinji)  
-- LinkedIn: [https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/seuusuario)  
-- Email: rodrigoyamashita02@gmail.com
-
----
-
-Desenvolvido por Rodrigo Shinji  
-© 2025
