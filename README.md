@@ -1,4 +1,4 @@
-# Portfólio Pessoal - Rodrigo Shinji
+# Portfólio Pessoal
 
 Este é o meu portfólio pessoal, desenvolvido com Vue.js e Tailwind CSS, onde apresento meus principais projetos, habilidades e um pouco sobre minha trajetória profissional.
 
