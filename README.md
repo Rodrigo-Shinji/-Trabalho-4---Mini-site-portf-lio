@@ -16,7 +16,7 @@ Este é o meu portfólio pessoal, desenvolvido com Vue.js e Tailwind CSS, onde a
 ## Como Rodar o Projeto
 
 1. Clone este repositório  
-   `git clone https://github.com/Rodrigo-Shinji/seu-repositorio.git`
+   `git clone https://github.com/Rodrigo-Shinji/-Trabalho-4---Mini-site-portf-lio.git`
 
 2. Instale as dependências  
    `npm install`
