@@ -54,7 +54,6 @@
           </div>
         </div>
 
-        <!-- Habilidades -->
         <div>
           <h3 class="text-2xl font-semibold text-purple-400 mb-4">
             Habilidades
